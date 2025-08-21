@@ -44,7 +44,7 @@ streamlit run front.py
 1. Crea una cuenta en [Streamlit Cloud](https://streamlit.io/cloud)
 2. Conecta tu repositorio de GitHub
 3. Configura la variable de entorno `GOOGLE_API_KEY` en la configuración de la aplicación
-4. ¡Listo! Tu aplicación estará disponible en una URL pública
+4. ¡Listo! 
 
 ## Estructura del proyecto
 
